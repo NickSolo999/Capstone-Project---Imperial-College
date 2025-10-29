@@ -1,0 +1,60 @@
+# Ignore road_class_LSTM notebook
+notebooks/road_class_LSTM.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (if needed)
+data/
+models/
+
+# Ignore videos in data folder
+#/data/PVS 1/*.mp4
+#/data/PVS 2/*.mp4
+#/data/PVS 3/*.mp4
+#/data/PVS 4/*.mp4
+#/data/PVS 5/*.mp4
+#/data/PVS 6/*.mp4
+#/data/PVS 7/*.mp4
+#/data/PVS 8/*.mp4
+#/data/PVS 9/*.mp4
