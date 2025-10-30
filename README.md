@@ -148,7 +148,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn torch jupyter joblib
 - **[data_sheet.md](data_sheet.md)**: Dataset documentation (motivation, composition, collection, preprocessing, uses, distribution)
 - **[model_card.md](model_card.md)**: Model architectures, performance, limitations, trade-offs
 
----
+----
 
 ## References
 
